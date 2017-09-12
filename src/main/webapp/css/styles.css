@@ -1,0 +1,27 @@
+
+.right{
+	float: right
+}
+.container .row{
+	margin-top:40px;
+}
+
+#tListadoPendientes span{
+	cursor: pointer;
+}
+
+#tListadoPendientes span i{
+	    color: #337ab7;
+}
+
+#tListadoPendientes span i:hover{
+	    color: #23527c;
+}
+
+.invalid{
+	border-color: red;
+}
+
+.ocultar{
+	display:none;
+}
